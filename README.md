@@ -1,2 +1,2 @@
-### Olá!👋
---> Graduanda em Ciência da Computação na UFU-Universidade Federal de Uberlândia.
+### Olá, eu sou a Marcella!👋
+📖 Graduanda em Ciência da Computação na UFU-Universidade Federal de Uberlândia.
