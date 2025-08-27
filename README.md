@@ -1,6 +1,5 @@
 ### Hi! I'm Marcella!👋
 📖*Undergraduate Computer Science student at [Federal University of Uberlândia](https://ufu.br/).*<br/>
-🤖*Programmer at [Roboforge Robotics team](https://github.com/roboforgeufu).*
 
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
